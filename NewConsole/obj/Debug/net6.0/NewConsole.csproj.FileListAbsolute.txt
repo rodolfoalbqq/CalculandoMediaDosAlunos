@@ -1,0 +1,15 @@
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\bin\Debug\net6.0\NewConsole.exe
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\bin\Debug\net6.0\NewConsole.deps.json
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\bin\Debug\net6.0\NewConsole.runtimeconfig.json
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\bin\Debug\net6.0\NewConsole.dll
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\bin\Debug\net6.0\NewConsole.pdb
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\obj\Debug\net6.0\NewConsole.csproj.AssemblyReference.cache
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\obj\Debug\net6.0\NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\obj\Debug\net6.0\NewConsole.AssemblyInfoInputs.cache
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\obj\Debug\net6.0\NewConsole.AssemblyInfo.cs
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\obj\Debug\net6.0\NewConsole.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\obj\Debug\net6.0\NewConsole.dll
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\obj\Debug\net6.0\refint\NewConsole.dll
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\obj\Debug\net6.0\NewConsole.pdb
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\obj\Debug\net6.0\NewConsole.genruntimeconfig.cache
+C:\Users\Rodolfo Albuquerque\Desktop\NewConsole\NewConsole\obj\Debug\net6.0\ref\NewConsole.dll
